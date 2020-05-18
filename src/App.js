@@ -10,7 +10,7 @@ class App extends Component {
 
   componentDidMount() {
     const firebaseConfig = {
-      apiKey: 'AIzaSyAwgxYLLITzLmKHFqKeMNkVlExUFrTDagc',
+      apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
       authDomain: 'manager-9839d.firebaseapp.com',
       databaseURL: 'https://manager-9839d.firebaseio.com',
       projectId: 'manager-9839d',
